@@ -1,4 +1,4 @@
-#include "Lexer.h"
+#include "lexer.h"
 #include "value.h"
 #include <iostream>
 #include <vector>
