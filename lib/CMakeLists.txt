@@ -1,0 +1,1 @@
+add_library(iscript interpreter.cpp lexer.cpp parser.cpp value.cpp)
