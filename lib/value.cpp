@@ -3,7 +3,7 @@
 #include <iostream>
 
 #include "AST.h"
-#include "Environment.h"
+#include "environment.h"
 
 std::vector<std::string> g_callStack;
 
