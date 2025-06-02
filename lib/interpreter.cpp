@@ -5,7 +5,7 @@
 #include <limits>
 #include <random>
 
-#include "Parser.h"
+#include "parser.h"
 #include "lexer.h"
 
 static void registerBuiltins(Environment& globals, std::ostream& out) {

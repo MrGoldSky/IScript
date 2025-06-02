@@ -3,8 +3,8 @@
 #include <string>
 #include <vector>
 
-#include "Environment.h"
-#include "Value.h"
+#include "environment.h"
+#include "value.h"
 #include "token.h"
 
 static const char* TokenTypeToString(TokenType type);
